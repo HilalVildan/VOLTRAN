@@ -1,24 +1,22 @@
 # Project : Voltran Project
 ​
-https://to-do-app-gz99.vercel.app/
+https://voltran-project.vercel.app/
 
 ## Description
 ​
-ToDo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do. It is helpful in planning our daily schedules. We can add more tasks at any time and delete a task that is completed. 
+Created a simple comic book serial site using HTML and CSS
 ​
 ## Project image
 ​
-![proje image](/Ekran%20Resmi%202022-09-27%2014.26.00.png)
+![proje image](/Ekran%20Resmi%202022-09-27%2015.11.28.png)
 
 ## Technologies used
 ​
 - HTML
 ​
 - CSS
-​
-- JS
 
 
 ## Project clone link
 ​
-https://github.com/HilalVildan/To-Do-App.git
+https://github.com/HilalVildan/VOLTRAN.git
