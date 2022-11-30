@@ -1,4 +1,4 @@
-body,
+
 ul,
 li,
 h1,
@@ -21,6 +21,8 @@ header {
   left: 0;
   z-index: 1;
 }
+
+
 header h1 {
   color: white;
   border: 8px solid white;
@@ -127,6 +129,11 @@ footer {
   nav li {
     font-size: 18px;
   }
+  figure img{
+    
+  width: 400px;
+  
+}
 }
 
 @media screen and (max-width: 700px) {
@@ -149,6 +156,7 @@ footer {
     display: block;
     margin: 20px auto;
   }
+  
 }
 
 @media screen and (max-width: 560px) {
@@ -176,4 +184,16 @@ footer {
     position: relative;
     top: 0;
   }
+
+  figure{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  figure img{
+    
+  width: 250px;
+  
+}
 }
